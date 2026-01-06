@@ -11,7 +11,7 @@ Follow the steps below to run and test the web application locally:
 Make sure you have **Python 3.9+** installed. Then install the required packages:
 
 ```bash
-pip install flask joblib numpy pandas scikit-learn==1.6.1 shap
+pip install flask joblib numpy pandas scikit-learn==1.6.1 shap flask-cors pefile xgboost rarfile
 ```
 
 ### 2️⃣ Configure the Project Path
